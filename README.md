@@ -1,9 +1,12 @@
 # The-Progression-Tracker
 ## 18-Week MSSA Cloud Development Application Project
 
-John Rizor\
-Microsoft Software and Systems Academy\
-Cloud Application Development Project\
+
+<p align="center">
+    John Rizor\
+    Microsoft Software and Systems Academy\
+    Cloud Application Development Project\
+</p>
 
 -------
 
