@@ -2,11 +2,9 @@
 ## 18-Week MSSA Cloud Development Application Project
 
 
-<p align="center">
-    John Rizor\
-    Microsoft Software and Systems Academy\
-    Cloud Application Development Project\
-</p>
+John Rizor\
+Microsoft Software and Systems Academy\
+Cloud Application Development Project\
 
 -------
 
