@@ -20,7 +20,7 @@ The TPT web application will help user stay aware and conscious of their goals. 
 \
 *Goal Setting*\
 \
-The user will initially put their information in to create a user account. This account will hold their information and data. The user account will store the data below:\
+The user will initially put their information in to create a user account. This account will hold their information and data. The user account will store the data below:
 -	Name
 -	Age
 -	Weight
