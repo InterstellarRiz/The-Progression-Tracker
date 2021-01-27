@@ -1,5 +1,5 @@
-# The-Progression-Tracker
-## 18-Week MSSA Cloud Development Application Project 
+# The Progression Tracker (TPT) 
+## 18-Week MSSA Cloud Development Web Application Project 
 
 
 John Rizor\
@@ -36,13 +36,13 @@ Once the user account has been created the user will then choose from a selectio
 \
 This area of the application will involve the user interactions and input of daily caloric count. Technology has allowed many people to have some type of fitness tracking device (smartwatches, fitness bands, etc.:) that can track how many calories are lost throughout a day. TPT will ask the user to input their calorie expenditure along with how many calories were consumed through the day. The data for each day would be presented as follows:
 -	Day 1:
--	Intake: 2,234
-- Expend: 2,400
--	Result: -166
+ -	Intake: 2,234
+ - Expend: 2,400
+ -	Result: -166
 -	Day 2:
--	Intake 2,300
--	Expend: 2,200
--	Result: +100\
+ -	Intake 2,300
+ -	Expend: 2,200
+ -	Result: +100\
 
 
 Each week will consist of an overall calculation of the results throughout the week and provide the user a weekly summary. The user will then be able to understand their results and track rather they are taking steps towards or away from their goals. The goals will continue to build from weekly to month and so on.\
