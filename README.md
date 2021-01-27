@@ -28,7 +28,7 @@ The user will initially put their information in to create a user account. This 
 -	Email
 -	Goal
 -	Deadline Date\
-\
+
 
 Once the user account has been created the user will then choose from a selection for their goal (**Build** or **Lose**). After the user’s selection a detail analysis will be displayed giving them information about the criteria (involving caloric data) they will need to meet to achieve their goals. After the selection they will be asked to enter their desired daily caloric intake (i.e., I eat 2,500 calories a day). After their intake is establish the progression tracker will provide them a several choices depending on their desires and goals.\
 \
@@ -43,7 +43,8 @@ This area of the application will involve the user interactions and input of dai
 -	Intake 2,300
 -	Expend: 2,200
 -	Result: +100\
-\
+
+
 Each week will consist of an overall calculation of the results throughout the week and provide the user a weekly summary. The user will then be able to understand their results and track rather they are taking steps towards or away from their goals. The goals will continue to build from weekly to month and so on.\
 \
 TPT will assist the user in tracking their weekly and monthly progression until their predetermined goal date. The goal is to help provide awareness to the importance of calories when setting weight goals. 
