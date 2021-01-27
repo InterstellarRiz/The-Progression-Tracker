@@ -21,14 +21,14 @@ The TPT web application will help user stay aware and conscious of their goals. 
 *Goal Setting*\
 \
 The user will initially put their information in to create a user account. This account will hold their information and data. The user account will store the data below:
-\
+
 -	Name
 -	Age
 -	Weight
 -	Height
 -	Email
 -	Goal
--	Deadline Date\
+-	Deadline Date
 
 
 Once the user account has been created the user will then choose from a selection for their goal (**Build** or **Lose**). After the user’s selection a detail analysis will be displayed giving them information about the criteria (involving caloric data) they will need to meet to achieve their goals. After the selection they will be asked to enter their desired daily caloric intake (i.e., I eat 2,500 calories a day). After their intake is establish the progression tracker will provide them a several choices depending on their desires and goals.\
@@ -36,12 +36,13 @@ Once the user account has been created the user will then choose from a selectio
 **Daily Details**\
 \
 This area of the application will involve the user interactions and input of daily caloric count. Technology has allowed many people to have some type of fitness tracking device (smartwatches, fitness bands, etc.:) that can track how many calories are lost throughout a day. TPT will ask the user to input their calorie expenditure along with how many calories were consumed through the day. The data for each day would be presented as follows:
-\
+
+
 Day 1:
  *	Intake: 2,234
  * Expend: 2,400
  *	Result: -166
-\
+
 Day 2:
  *	Intake 2,300
  *	Expend: 2,200
