@@ -1,13 +1,11 @@
 # The-Progression-Tracker
 ## 18-Week MSSA Cloud Development Application Project
 
-John Rizor
-MSSA CAD Fort Carson
-January 16, 2021
-ISTA 220
-Project Step 2
-Project Selection
+John Rizor\
+Microsoft Software and Systems Academy\
+Cloud Application Development Project\
 
+-------
 
 The Progression Tracker
 
