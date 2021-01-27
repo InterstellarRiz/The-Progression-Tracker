@@ -8,12 +8,13 @@ Cloud Application Development Project\
 
 -------
 
-The Progression Tracker
+### The Progression Tracker
 
-Introduction
+**Introduction**
 
-The Progression Tracker (TPT) is a helpful application that will track different fitness goals for the user. The application will monitor the user’s input and output. A phrase that has been used for New Year’s resolutions or other progression track is “new year new me.” TPT helps to ensure the user keep accountability of their goals and track their progression. What better way can you kick off a “new you” then by keeping an accountability log through TPT? The overall job of this application is to create a weekly and monthly tracker of an individual’s weight and goal progression by combining their daily caloric intake and expenditure.
-The TPT web application will help user stay aware and conscious of their goals. The first step of the application is to create an overall weight goal (rather gaining or losing). TPT will allow for user to set the goal and a completion date for their goal. The optimism behind this application is it will help users keep track of their progression and if necessary, the steps to change the user’s daily activities to achieve their goal. Another goal of the application is to set miniature goals for the user to achieve. No great journey is ever accomplished without smaller journey accomplishments. The application will consist of a visual goal along with the daily details.
+The Progression Tracker (TPT) is a helpful application that will track different fitness goals for the user. The application will monitor the user’s input and output. A phrase that has been used for New Year’s resolutions or other progression track is “new year new me.” TPT helps to ensure the user keep accountability of their goals and track their progression. What better way can you kick off a “new you” then by keeping an accountability log through TPT? The overall job of this application is to create a weekly and monthly tracker of an individual’s weight and goal progression by combining their daily caloric intake and expenditure.\
+\
+The TPT web application will help user stay aware and conscious of their goals. The first step of the application is to create an overall weight goal (rather gaining or losing). TPT will allow for user to set the goal and a completion date for their goal. The optimism behind this application is it will help users keep track of their progression and if necessary, the steps to change the user’s daily activities to achieve their goal. Another goal of the application is to set miniature goals for the user to achieve. No great journey is ever accomplished without smaller journey accomplishments. The application will consist of a **visual goal** along with the **daily details**.
 Visual
 Goal Setting
 The user will initially put their information in to create a user account. This account will hold their information and data. The user account will store the data below:
