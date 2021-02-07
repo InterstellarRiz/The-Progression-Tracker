@@ -56,4 +56,4 @@ TPT will assist the user in tracking their weekly and monthly progression until 
 
 ---
 
-[Database Diagram](TPT Database Diagram.jpeg)
+[Database Diagram](TPTDatabaseDiagram.jpeg)
