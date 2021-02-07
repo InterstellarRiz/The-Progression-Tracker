@@ -53,3 +53,7 @@ This area of the application will involve the user interactions and input of dai
 Each week will consist of an overall calculation of the results throughout the week and provide the user a weekly summary. The user will then be able to understand their results and track rather they are taking steps towards or away from their goals. The goals will continue to build from weekly to month and so on.\
 \
 TPT will assist the user in tracking their weekly and monthly progression until their predetermined goal date. The goal is to help provide awareness to the importance of calories when setting weight goals. 
+
+---
+
+[Database Diagram] ()
