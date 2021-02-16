@@ -3,8 +3,8 @@
 
 
 John Rizor\
-Microsoft Software and Systems Academy\
-Cloud Application Development Project\
+Microsoft Software and Systems Academy
+Cloud Application Development Project
 
 -------
 
