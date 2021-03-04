@@ -30,24 +30,24 @@ The user will initially put their information in to create a user account. This 
 -	Goal
 -	Deadline Date
 
-After the user has created their account, the user will choose which exercise will be their focus (squats, bench press, deadlifts, etc.). After the user’s selection the user will provide their current maximum weight in the exercise. The application will run their data and provide a percentage chart of weight amount, sets, and repetitions. The user will be provided with different choices of intensity levels. Based on the weight goal entered a detail exercise routine will be displayed giving them the foundation to help achieve their new weight max. The user will also interact with the front-end by providing daily lifting achievements, failures, and protein intake. 
+After the user has created their account, the user will choose which exercise will be their focus (**squats, bench press, deadlifts**). After the user’s selection the user will provide their current maximum weight in the exercise. The application will run their data and provide a percentage chart of weight amount, sets, and repetitions. The user will be provided with different choices of intensity levels. Based on the weight goal entered a detail exercise routine will be displayed giving them the foundation to help achieve their new weight max. The user will also interact with the front-end by providing daily lifting achievements, failures, and protein intake. 
 \
 \
-**Daily Details**\
+**Back-End**\
 \
-This area of the application will involve the user interactions and input of daily caloric count. Technology has allowed many people to have some type of fitness tracking device (smartwatches, fitness bands, etc.:) that can track how many calories are lost throughout a day. TPT will ask the user to input their calorie expenditure along with how many calories were consumed through the day. The data for each day would be presented as follows:
+This area of the application will involve the calculation of the weight percentages and break each weight down to a repetition amount. The process will be based of detailed workout regiments and mathematical calculations.
 
 *Example:*
 
 *Day 1:*
- *	*Intake: 2,234*
- *  *Expend: 2,400*
- *	*Result: -166*
+o	Current Max: 225
+o	Repetition: 10, 8, 6, 4, 2
+o	Percentage: 75%, 80%, 85%, 90%, 95%
+o	Weight: 170 lbs., 180 lbs., 190lbs., 205 lbs., 215 lbs.
+o	Accomplished or Failed
+o	Protein Recommendation Amount
+o	Protein Intake 
 
-*Day 2:*
- *	*Intake 2,300*
- *	*Expend: 2,200*
- *	*Result: +100*
 
 
 Each week will consist of an overall calculation of the results throughout the week and provide the user a weekly summary. The user will then be able to understand their results and track rather they are taking steps towards or away from their goals. The goals will continue to build from weekly to month and so on.\
