@@ -22,13 +22,13 @@ The Limit Breaker web application will help user stay aware and conscious of the
 \
 The user will initially put their information in to create a user account. This account will hold their information and data. The user account will store the data below:
 
-•	Name
-•	Age
-•	Weight
-•	Height
-•	Email
-•	Goal
-•	Deadline Date
+-	Name
+-	Age
+-	Weight
+-	Height
+-	Email
+-	Goal
+-	Deadline Date
 
 After the user has created their account, the user will choose which exercise will be their focus (squats, bench press, deadlifts, etc.). After the user’s selection the user will provide their current maximum weight in the exercise. The application will run their data and provide a percentage chart of weight amount, sets, and repetitions. The user will be provided with different choices of intensity levels. Based on the weight goal entered a detail exercise routine will be displayed giving them the foundation to help achieve their new weight max. The user will also interact with the front-end by providing daily lifting achievements, failures, and protein intake. 
 \
