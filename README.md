@@ -40,19 +40,18 @@ This area of the application will involve the calculation of the weight percenta
 *Example:*
 
 *Day 1:*
-o	Current Max: 225
-o	Repetition: 10, 8, 6, 4, 2
-o	Percentage: 75%, 80%, 85%, 90%, 95%
-o	Weight: 170 lbs., 180 lbs., 190lbs., 205 lbs., 215 lbs.
-o	Accomplished or Failed
-o	Protein Recommendation Amount
-o	Protein Intake 
+-	Current Max: 225
+-	Repetition: 10, 8, 6, 4, 2
+-	Percentage: 75%, 80%, 85%, 90%, 95%
+-	Weight: 170 lbs., 180 lbs., 190lbs., 205 lbs., 215 lbs.
+-	Accomplished or Failed
+-	Protein Recommendation Amount
+-	Protein Intake 
 
-
-
-Each week will consist of an overall calculation of the results throughout the week and provide the user a weekly summary. The user will then be able to understand their results and track rather they are taking steps towards or away from their goals. The goals will continue to build from weekly to month and so on.\
+Each time the user opens the application they will be able to pull their information and access their weightlifting goals and protein intake information. The user will then be able to understand their results and track rather they are taking steps towards or away from their goals.
 \
-TPT will assist the user in tracking their weekly and monthly progression until their predetermined goal date. The goal is to help provide awareness to the importance of calories when setting weight goals. 
+Limit Breaker will assist the user in tracking their progression. The goal is to help provide awareness to the importance of percentages, repetition, and sets to accomplish new max weight-lifting goal. 
+ 
 
 ---
 
